@@ -1,0 +1,10 @@
+name: lsqlite
+description: >-
+  Have you been used sqlite?
+version: 1.0.1
+environment:
+  sdk: '^3.0.0'
+dependencies:
+  sqlite3: ^1.11.2
+dev_dependencies:
+  sqflite_common_ffi:
